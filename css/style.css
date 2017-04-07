@@ -1,3 +1,5 @@
+/*University ID:-16418531
+    Name:-Ranjit Shrestha*/
 body {
   background-color: pink;
   font-family: arial;
@@ -47,8 +49,8 @@ ul {
     padding-top: 4%;
 }
 li a:hover{
-  background-color:black;
-  border-radius: 11px;
+  background-color:yellow;
+  border-radius: 10px;
 }
 
 li {
@@ -79,8 +81,10 @@ background-color: #d8d0c5;
   background-color: darkgrey;
     border-radius: 20px;
 }
-.nav{
-  margin: -2px;
-float: right;
-width: 189px;
+.image1{
+  height: 700px;
+    width: 500px;
+    display: flex;
+    display: flex;
+    padding-left: 850px;
 }
